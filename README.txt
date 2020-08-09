@@ -1,0 +1,1 @@
+A puzzle is created from random 10 words taken from words.txt.
